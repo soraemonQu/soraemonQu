@@ -18,7 +18,7 @@
 - Name: Sora SHIOTA
 - Nickname: Soraemon
 - Sex: Male
-- Age: 18
+- Age: 19
 - Location: Japan
 - University: Kyushu University
 - Grade: Freshman
