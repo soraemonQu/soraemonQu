@@ -38,13 +38,10 @@
 - Japanese(native)
 - *English(learning)*
 - *German(learning)*
-- Markdown
-- BASIC
-- HTML
-- CSS
 - JavaScript/TypeScript
 - *Python(learning)*
-- *C++(learning)*
+- *C, C++(learning)*
+- Scheme
 - *Haskell(learning)*
 
 ### Frameworks
